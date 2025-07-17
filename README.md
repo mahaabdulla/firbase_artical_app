@@ -12,4 +12,5 @@ artaicl app using firbase as backend
  - Add title, descrption, date to artical
  - Uploade artical to firebase
  - login , singup
+ - see all articals
 
