@@ -6,3 +6,6 @@ artaicl app using firbase as backend
 - firebase storage
 
 
+#Core Functionality:
+ - Add Artical
+ - login , singup
