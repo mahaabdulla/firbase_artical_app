@@ -1,2 +1,3 @@
 # firbase_artical_app
-artaicl app using firbase
+artaicl app using firbase as backend
+
