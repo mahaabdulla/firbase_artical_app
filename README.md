@@ -9,6 +9,6 @@ artaicl app using firbase as backend
 #Core Functionality:
  - Add Artical
  - Upload image to artical
- - Add title, descrption
+ - Add title, descrption, date to artical
  - login , singup
  - 
