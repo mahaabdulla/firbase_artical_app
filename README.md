@@ -1,5 +1,6 @@
-# firbase_artical_app
-artaicl app using firbase as backend
+📱 Firebase Article App
+
+A simple article posting app using Firebase as the backend. Users can sign up, log in, create articles with images, and view all articles.
 
 # Tecnics:
 - firebase auth
