@@ -13,5 +13,6 @@ artaicl app using firbase as backend
  - Uploade artical to firebase
  - login , singup
  - see all articals
- - ljkfhuysh pwouyf poi uiqya qiru8 ywoidjs gao9ur 98a yuof ayu9a j87wr
+ - ljkfhuysh pwouyf poi uiqya qiru8 ywoidjs gao9ur 98a yuof
+ - kj
 
