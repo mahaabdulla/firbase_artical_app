@@ -2,10 +2,6 @@
 
 A simple article posting app using Firebase as the backend. Users can sign up, log in, create articles with images, and view all articles.
 
-# Tecnics:
-- firebase auth
-- firebase storage
-
 
 🚀 Features
 
@@ -26,4 +22,13 @@ A simple article posting app using Firebase as the backend. Users can sign up, l
     📤 Upload articles to Firebase
 
     👀 View all uploaded articles
+
+
+🛠️ Technologies Used
+
+    Firebase Authentication – for managing user accounts (login/signup)
+
+    Firebase Storage – for storing article images
+
+    Firebase Firestore / Realtime Database (depending on your implementation) – for storing article data
 
