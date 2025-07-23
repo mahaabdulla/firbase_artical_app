@@ -25,6 +25,8 @@ A simple article posting app using Firebase as the backend. Users can sign up, l
 
 
 🛠️ Technologies Used
+,lkjhgfdghjl
+oghfcjl;
 
     Firebase Authentication – for managing user accounts (login/signup)
 
