@@ -1,5 +1,5 @@
 📱 Firebase Article App
-hgf iug
+hg
 A simple article posting app using Firebase as the backend. Users can sign up, log in, create articles with images, and view all articles.
 
 
